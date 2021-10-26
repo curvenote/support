@@ -1,6 +1,6 @@
 <img src="https://curvenote.dev/images/logo.png" width="200" />
 
-# Curenote Issues & Support
+# Curvenote Issues & Support
 
 Use this repository for logging and tracking bugs, enhancements or asking questions regarding the main Curvenote platform / web application and the Curvenote Chrome extension for Jupyter.
 
